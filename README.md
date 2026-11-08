@@ -89,7 +89,7 @@ Events containing fewer than four consecutive 30-second defrost readings were ex
 
 ChatGPT was used to assist with the research , Python code development, and formatting of the research paper.
 
-The author downloaded the NREL dataset, executed the Python analysis and reviewed the results.
+I downloaded the NREL dataset, executed the Python analysis and reviewed the results.
 
 ## References
 
